@@ -6,7 +6,7 @@
 <details>
   <summary align="center"><samp>fighting for love and justice</samp></summary>
   <hr>
-  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle"> hihi~ i’m <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m a) an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code>, b) in love with saturated colors and sparkles, and c) working toward racial + economic + queer + womxn’s liberation — i call this being a <strong>design babe dual-wielding compassion and cuteness</strong> ⚔️🎀 my favorite project i’ve shipped at 🐙🐱 is the public-facing <a href="https://github.com/about/diversity">diversity</a> page. along with design and art and code and social justice, i also love cats, video games, and skincare.
+  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle"> hihi~ i’m <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m a) an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code>, b) in love with saturated colors and sparkles, and c) working toward racial + economic + queer + womxn’s liberation — i call this being a <strong>design babe dual-wielding compassion and cuteness</strong> ⚔️🎀 my favorite project i’ve shipped at 🐙🐱 is the public-facing <a href="https://github.com/about/diversity">diversity</a> page. along with design and art and code and social justice, i also love cats, video games, k-pop, and skincare!
   <hr>
   <p align="center">
     👋 have the best day you can 🌈<br>
