@@ -3,7 +3,7 @@
 </p>
 
 <details>
-  <summary align="center">♡♡♡♡♡♡</summary>
+  <summary align="center">♡♡♡♡♡♡ &#x25C0;&#xFE0E;</summary>
   <hr>
   <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left"> hihi~ my name is <strong>skullface</strong> and you can call me skully/skullie! 💕 i’m an interdisciplinary designer, visual artist, and programmer, in love with saturated colors and sparkles, working toward racial + economic + queer + womxn’s justice and liberation~ i call this being a <strong>design babe dual-wielding compassion and cuteness</strong>. my favorite project i’ve shipped at 🐙🐱 is the <a href="https://github.com/about/diversity">diversity</a> page. thanks for reading; i hope you have the best day you can! 🌈
   <hr>
