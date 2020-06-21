@@ -5,6 +5,8 @@
 <details>
   <summary align="center">♡♡♡♡♡♡</summary>
   <hr>
-  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left"> hihi~ my name is <strong>skullface</strong> and you can call me skully/skullie! 💕 i’m an interdisciplinary designer, visual artist, and programmer, in love with saturated colors and sparkles, working toward racial + economic + queer + womxn’s justice and liberation~ i call this being a <strong>design babe dual-wielding compassion and cuteness</strong>. my favorite project i’ve shipped at 🐙🐱 is the <a href="https://github.com/about/diversity">diversity</a> page. thanks for reading; i hope you have the best day you can! 🌈<br>
-  <a href="https://twitter.com/intent/tweet?text=@skullface%20owo%20hello%21%20"><kbd>say hi on twitter</kbd> <a href="https://instagram.com/skvllface"><kbd>follow me on ig</kbd></a>
+  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left"> hihi~ my name is <strong>skullface</strong> and you can call me skully/skullie! 💕 i’m an interdisciplinary designer, visual artist, and programmer, in love with saturated colors and sparkles, working toward racial + economic + queer + womxn’s justice and liberation~ i call this being a <strong>design babe dual-wielding compassion and cuteness</strong>. my favorite project i’ve shipped at 🐙🐱 is the <a href="https://github.com/about/diversity">diversity</a> page. thanks for reading; i hope you have the best day you can! 🌈
+  <hr>
+  <p align="center">
+  <a href="https://twitter.com/intent/tweet?text=@skullface%20owo%20hello%21%20"><kbd>say hi on twitter</kbd></a> <a href="https://instagram.com/skvllface"><kbd>follow me on ig</kbd></a></p>
 </details>
