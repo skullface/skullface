@@ -6,7 +6,7 @@
 <details>
   <summary align="center"><samp>fighting for love and justice</samp></summary>
   <hr>
-  <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle"> hihi, i’m <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m ① an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code> ② in love with saturated colors and sparkles ③ working toward racial + economic + queer + women’s liberation — i call this being a <strong>design babe dual-wielding compassion and cuteness</strong> ⚔️🎀~ at github, i design and develop digital marketing experiences with heart. i also love cats, video games, k-pop, and beauty!
+  hihi, i’m <strong>skullface</strong> (she/her), a Design Engineer dual wielding compassion and cuteness (*＾▽＾)／ i use my interdisciplinary ① art, ② design, and ③ programming background to create and elevate brand and marketing experiences for developer tools — making positive impact and leaving a trail of glitter in my wake. i love the midwest, cats, video games, k-pop, and beauty 💕
   <hr>
   <p align="center">
     👋 have the best day you can 🌈<br>
